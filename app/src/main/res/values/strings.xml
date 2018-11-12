@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">myVideoDemo</string>
+    <string name="choose_file">文件</string>
+</resources>
